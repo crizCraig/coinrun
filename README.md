@@ -2,7 +2,7 @@
 
 # Quantifying Generalization in Reinforcement Learning
 
-#### [[Blog Post]](https://blog.openai.com/quantifying-generalization-in-reinforcement-learning/) [[Paper]](https://drive.google.com/file/d/1U1-uufB_ZzQ1HG67BhW9bB8mTJ6JtS19/view)
+#### [[Blog Post]](https://openai.com/research/quantifying-generalization-in-reinforcement-learning/) [[Paper]](https://drive.google.com/file/d/1U1-uufB_ZzQ1HG67BhW9bB8mTJ6JtS19/view)
 
 This is code for the environments used in the paper [Quantifying Generalization in Reinforcement Learning](https://drive.google.com/file/d/1U1-uufB_ZzQ1HG67BhW9bB8mTJ6JtS19/view) along with an example training script.
 
